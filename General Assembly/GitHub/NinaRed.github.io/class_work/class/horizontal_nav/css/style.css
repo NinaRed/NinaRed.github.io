@@ -1,0 +1,25 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+nav {
+	background-color: black;
+	text-align: center;
+}
+
+a {
+	color: #cccccc;
+}
+
+li {
+	display: inline-block;
+	list-style-type: none;
+	padding: 30px;
+}
+
+a:hover {
+	color: #ffffff;
+	background-color: #ff7401;
+	padding: 30px;
+}
